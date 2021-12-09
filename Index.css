@@ -1,0 +1,63 @@
+.foot{
+    width: 100%;
+    background-color: black;
+}
+.main-footer{
+    text-align: center;
+    background-color: #1b2d70;
+    height: 350px;
+    display:inline-table;
+    width: 100%;
+}
+.Titulo{
+ color: white;
+ font-weight: bolder;
+
+
+}
+.container-btns{
+    
+    background-color: blue;
+    
+}
+
+.home{
+    
+    padding: 50px;
+    display: inline-block;
+    color: white;
+}
+.home i{
+    font-size: 3em;
+    padding:50px 0 0 0;
+    width: 30px;
+    height: 30px;
+    color: white;
+    
+    
+    
+}
+
+.email{
+    padding: 50px;
+    display: inline-block;
+    color: white;
+}
+.email i{
+    font-size: 3em;
+    padding:50px 0 0 0;
+    color: white;
+    
+    
+}
+.phone{
+    padding: 50px;
+    display: inline-block;
+    color: white;
+   
+}
+.phone i{
+    font-size: 3em;
+    padding:50px 0 0 0;
+    color: white;
+}
